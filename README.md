@@ -12,4 +12,4 @@
   <img src="https://skillicons.dev/icons?i=git,python,c,cpp,cs,html,css,js,bash,linux,neovim,arduino,haskell,lua"/>
 </p>
 <h2>Languages most used by me:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David73-Coloa"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David73-Coloa&langs_count=10"/>
