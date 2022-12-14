@@ -11,5 +11,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,python,c,cpp,cs,html,css,js,bash,linux,neovim,arduino,haskell,lua"/>
 </p>
-<h2>Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=David73-Coloa&show_icons=true&theme=darcula"/>
+<h2>Languages most used by me:</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David73-Coloa&langs_count=8"/>
