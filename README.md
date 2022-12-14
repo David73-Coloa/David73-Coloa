@@ -1,4 +1,4 @@
-<h1 align="center"> Hi ,My name is David</h1>
+<h1 align="center"> Hi, My name is David</h1>
 <h2>I am currently:</h2>
 <ul>
   <li>Using Arch Linux</li>
