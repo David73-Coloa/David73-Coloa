@@ -20,9 +20,6 @@
   <img width="35" src="https://telegram.org/img/t_logo.png" alt="Telegram Icon"/>
 </a>
 <br></br>
-<p align='right'>Farhan Khan
-<a  href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
-</p>
-<p text-align="center"> 
-<a href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
+<p align='right'>
+  <a  href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
 </p>
