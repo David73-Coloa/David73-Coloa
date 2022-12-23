@@ -19,5 +19,5 @@
 <a href="https://t.me/Kimenjss/">
   <img width="35" src="https://telegram.org/img/t_logo.png" alt="Telegram Icon"/>
 </a>
-
+<br>
 <a href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
