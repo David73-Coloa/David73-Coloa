@@ -13,4 +13,5 @@
 </p>
 <h2>Languages most used by me:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David73-Coloa&langs_count=10&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=David73-Coloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"></img>
 <a href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
