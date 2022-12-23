@@ -14,9 +14,9 @@
 <h2>Languages most used by me:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David73-Coloa&langs_count=10&layout=compact&theme=dark"/>
 <h2>My git status:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=David73-Coloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"></>
+<img src="https://github-readme-stats.vercel.app/api?username=David73-Coloa&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22" />
 <a href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
 <h2>You can contact me in:</h2>
 <a href="https://t.me/Kimenjss/">
-  <img src="https://telegram.org/img/t_logo.png" alt="Telegram Icon"></>
+  <img size=20 src="https://telegram.org/img/t_logo.png" alt="Telegram Icon"/>
 </a>
