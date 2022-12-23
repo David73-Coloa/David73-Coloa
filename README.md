@@ -18,5 +18,5 @@
 <a href="https://github.com/David73-Coloa/programming-course">Some mini course that i did</a>
 <h2>You can contact me in:</h2>
 <a href="https://t.me/Kimenjss/">
-  <img size=20 src="https://telegram.org/img/t_logo.png" alt="Telegram Icon"/>
+  <img width="20" src="https://telegram.org/img/t_logo.png" alt="Telegram Icon"/>
 </a>
