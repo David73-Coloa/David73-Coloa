@@ -2,7 +2,6 @@
 <h2>I am currently:</h2>
 <ul>
   <li>Using Arch Linux</li>
-  <li>Studying physics</li>
 </ul>
 <p>I love writing programs because I think more people can learn and because I find the way technologies evolve amazing.</p>
 <h2>Languages/technologies I'm interested in:</h2>
