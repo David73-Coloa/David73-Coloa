@@ -2,7 +2,8 @@
 <h2>Atualmente estou:</h2>
 <ul>
   <li>Utilizando Arch Linux</li>
-  <li>Estudando matemática </li>
+  <li>Estudando matemática</li>
+  <li>Descobrindo as coisas</li>
 </ul>
 <!-- Comentário
 <p>Eu amo programar porque acredito que mais pessoas podem aprender, e porque acho incrível a forma como as tecnologias evoluem.</p>
