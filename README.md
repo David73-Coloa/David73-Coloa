@@ -1,5 +1,5 @@
 <h1 align="center">Oi, meu nome é David</h1>
-<h2>"não querer que nada seja diferente, nem para a frente, nem para trás, nem em toda a eternidade.":</h2>
+<h2>"não querer que nada seja diferente, nem para a frente, nem para trás, nem em toda a eternidade. Humano demais.":</h2>
 <!-- Comentario 06/01/2026
 <ul>
   <li>Utilizando Arch Linux</li>
