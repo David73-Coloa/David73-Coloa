@@ -1,10 +1,11 @@
 <h1 align="center">Oi, meu nome é David</h1>
-<h2>Atualmente estou:</h2>
+<h2>"não querer que nada seja diferente, nem para a frente, nem para trás, nem em toda a eternidade.":</h2>
+<!-- Comentario 06/01/2026
 <ul>
   <li>Utilizando Arch Linux</li>
   <li>Estudando matemática</li>
   <li>Descobrindo as coisas</li>
-</ul>
+</ul>-- >
 <!-- Comentário
 <p>Eu amo programar porque acredito que mais pessoas podem aprender, e porque acho incrível a forma como as tecnologias evoluem.</p>
 <h2>Linguagens/tecnologias que me interessam:</h2>
