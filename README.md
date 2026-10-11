@@ -1,5 +1,6 @@
 <h1 align="center">Oi, meu nome é David</h1>
 <h2>"não querer que nada seja diferente, nem para a frente, nem para trás, nem em toda a eternidade. Humano demais.":</h2>
+<h2> Viver, na verdade, é dífici e viver sozinho é ainda mais díficil. Dito isso, tudo é em grupo e tudo ao mesmo tempo é individual. Seja político. </h2>
 <!-- Comentario 06/01/2026
 <ul>
   <li>Utilizando Arch Linux</li>
